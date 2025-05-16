@@ -1,0 +1,17 @@
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\bin\Debug\MilAccess.exe.config
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\bin\Debug\MilAccess.exe
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\bin\Debug\MilAccess.pdb
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.csproj.AssemblyReference.cache
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.Form1.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.Properties.Resources.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.csproj.GenerateResource.cache
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.csproj.CoreCompileInputs.cache
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.exe
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.pdb
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.frmLogin.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.frmCadastro.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.frmMenuPrincipal.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.View.frmCivil.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.View.frmVeiculo.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.View.frmSaida.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Debug\MilAccess.View.frmRelatorio.resources

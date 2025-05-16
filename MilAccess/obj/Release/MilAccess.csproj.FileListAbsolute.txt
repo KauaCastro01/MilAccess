@@ -1,0 +1,17 @@
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\bin\Release\MilAccess.exe.config
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\bin\Release\MilAccess.exe
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\bin\Release\MilAccess.pdb
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.csproj.AssemblyReference.cache
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.Form1.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.frmCadastro.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.frmLogin.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.frmMenuPrincipal.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.Properties.Resources.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.csproj.GenerateResource.cache
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.csproj.CoreCompileInputs.cache
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.exe
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.pdb
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.View.frmCivil.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.View.frmSaida.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.View.frmVeiculo.resources
+C:\Users\kauac\OneDrive\Documentos\Projeto\Projetos_Proprios\Desktop\MilAccess\MilAccess\obj\Release\MilAccess.View.frmRelatorio.resources
